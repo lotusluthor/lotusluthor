@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lotusluthor.
-- 👀 I’m interested in blockchain technology.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on writing smart contracts.
-- 📫 How to reach me finalboss@lotusluthor.com
+- 👋 Hi, My name is @lotusluthor.  I'm here to change the world.
+- 👀 I’m interested in all things #web3.
+- 🌱 Growing into the illest creative mind in #web3.
+- 💞️ I’m looking to collaborate on awesome innovations.
+- 📫 Public Email: finalboss@lotusluthor.com
 
 <!---
 lotusluthor/lotusluthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
