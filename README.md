@@ -1,4 +1,4 @@
-- 👋 Hi, My name is @lotusluthor.  I'm here to change the world.
+- 👋 Peace. My name is @lotusluthor, and if you'll have me, I'd like to change the world.
 - 👀 I’m interested in all things #web3.
 - 🌱 Growing into the illest creative mind in #web3.
 - 💞️ I’m looking to collaborate on awesome innovations.
