@@ -1,5 +1,5 @@
 - 👋 Peace. My name is Jason Clark, creatively known as @lotusluthor.
-- 🚀 I'm building in the middle of building the Lotus Luthor Corporation.
+- 🚀 Presently building my company, the Lotus Luthor Corporation.
 - 👀 I specialize in DevOps, Machine Learning, and Software Engineering.
 - 🌱 Growing into a creative and experienced Solutions Architect.
 - 💞️ I’m always looking for interesting work.
