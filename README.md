@@ -1,7 +1,7 @@
-- 👋 Peace. My name is @lotusluthor, and if you'll have me, I'd like to change the world.
-- 👀 I’m interested in all things #web3.
-- 🌱 Growing into the illest creative mind in #web3.
-- 💞️ I’m looking to collaborate on awesome innovations.
+- 👋 Peace. My name is @lotusluthor, founder of the Lotus Luthor Corporation, LLC.
+- 👀 I specialize in DevOps, Machine Learning, and Software Engineering.
+- 🌱 Growing into a creative and experienced Solutions Developer.
+- 💞️ I’m always looking for interesting work.
 - 📫 Public Email: finalboss@lotusluthor.com
 
 <!---
